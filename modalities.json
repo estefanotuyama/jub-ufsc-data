@@ -1,7 +1,7 @@
 [
   {
     "id": 1,
-    "modalidade": "Futebol de Campo",
+    "modalidade": "Futebol",
     "icone": "https://raw.githubusercontent.com/estefanotuyama/jub-ufsc-data/main/assets/futebol-icon.png",
     "datas": "02/06 a 08/06",
     "imagem_detalhe": "https://link-para-a-imagem-de-futebol.jpg",
@@ -34,7 +34,7 @@
     "descricao": "Provas de 50m, 100m e revezamento na piscina olímpica do campus.",
     "horarios": "Eliminatórias às 09:00, Finais às 17:00",
     "local": {
-      "nome": "Piscina Olímpica - UFSC",
+      "nome": "UFSC",
       "coordenadas": "-27.6025, -48.5185"
     }
   },
@@ -47,7 +47,7 @@
     "descricao": "Campeonato de Tênis, nas quadras da UFSC.",
     "horarios": "Das 8:00 as 12:00 e das 14:00 as 20:00",
     "local": {
-      "nome": "Quadras de tênis - UFSC",
+      "nome": "UFSC",
       "coordenadas": "-27.6025, -48.5185"
     }
   },
