@@ -2,7 +2,7 @@
   {
     "id": 1,
     "modalidade": "Futebol de Campo",
-    "icone": "futebol-icon.png",
+    "icone": "https://raw.githubusercontent.com/estefanotuyama/jub-ufsc-data/main/assets/futebol-icon.png",
     "datas": "02/06 a 08/06",
     "imagem_detalhe": "https://link-para-a-imagem-de-futebol.jpg",
     "descricao": "As competições de futebol de campo reunirão as melhores equipes universitárias do país no campo principal do Centro de Desportos da UFSC.",
@@ -17,7 +17,7 @@
     "modalidade": "Handebol",
     "icone": "handball-icon.png",
     "datas": "03/06 a 09/06",
-    "imagem_detalhe": "https://link-para-a-imagem-de-handebol.jpg",
+    "imagem_detalhe": "https://raw.githubusercontent.com/estefanotuyama/jub-ufsc-data/main/assets/handball-icon.png",
     "descricao": "Partidas competitivas de Handebol, na Astel.",
     "horarios": "Jogos das 14:00 às 19:00",
     "local": {
@@ -28,7 +28,7 @@
   {
     "id": 3,
     "modalidade": "Natação",
-    "icone": "swimming-icon.png",
+    "icone": "https://raw.githubusercontent.com/estefanotuyama/jub-ufsc-data/main/assets/swimming-icon.png",
     "datas": "04/06 e 05/06",
     "imagem_detalhe": "https://link-para-a-imagem-de-natacao.jpg",
     "descricao": "Provas de 50m, 100m e revezamento na piscina olímpica do campus.",
@@ -41,7 +41,7 @@
   {
     "id": 4,
     "modalidade": "Tênis",
-    "icone": "tennis-icon.png",
+    "icone": "https://raw.githubusercontent.com/estefanotuyama/jub-ufsc-data/main/assets/tennis-icon.png",
     "datas": "02/06 a 05/06",
     "imagem_detalhe": "https://link-para-a-imagem-de-tenis.jpg",
     "descricao": "Campeonato de Tênis, nas quadras da UFSC.",
@@ -54,7 +54,7 @@
   {
   "id": 5,
   "modalidade": "Voleibol",
-  "icone": "volleyball-icon.png",
+  "icone": "https://raw.githubusercontent.com/estefanotuyama/jub-ufsc-data/main/assets/volleyball-icon.png",
   "datas": "03/06 a 09/06",
   "imagem_detalhe": "https://link-para-a-imagem-de-volei.jpg",
   "descricao": "Partidas emocionantes de vôlei de quadra acontecerão no ginásio da ELASE.",
