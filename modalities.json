@@ -15,7 +15,7 @@
   {
     "id": 2,
     "modalidade": "Handebol",
-    "icone": "handball-icon.png",
+    "icone": "https://raw.githubusercontent.com/estefanotuyama/jub-ufsc-data/main/assets/handball-icon.png",
     "datas": "03/06 a 09/06",
     "imagem_detalhe": "https://raw.githubusercontent.com/estefanotuyama/jub-ufsc-data/main/assets/handball-icon.png",
     "descricao": "Partidas competitivas de Handebol, na Astel.",
