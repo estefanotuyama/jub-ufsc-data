@@ -1,0 +1,67 @@
+[
+  {
+    "id": 1,
+    "modalidade": "Futebol de Campo",
+    "icone": "futebol-icon.png",
+    "datas": "02/06 a 08/06",
+    "imagem_detalhe": "https://link-para-a-imagem-de-futebol.jpg",
+    "descricao": "As competições de futebol de campo reunirão as melhores equipes universitárias do país no campo principal do Centro de Desportos da UFSC.",
+    "horarios": "Jogos às 14:00 e 16:00",
+    "local": {
+      "nome": "Centro de Desportos (CDS) - UFSC",
+      "coordenadas": "-27.6011, -48.5190"
+    }
+  },
+  {
+    "id": 2,
+    "modalidade": "Handebol",
+    "icone": "handball-icon.png",
+    "datas": "03/06 a 09/06",
+    "imagem_detalhe": "https://link-para-a-imagem-de-handebol.jpg",
+    "descricao": "Partidas competitivas de Handebol, na Astel.",
+    "horarios": "Jogos das 14:00 às 19:00",
+    "local": {
+      "nome": "Astel",
+      "coordenadas": "-27.5960, -48.5152"
+    }
+  },
+  {
+    "id": 3,
+    "modalidade": "Natação",
+    "icone": "swimming-icon.png",
+    "datas": "04/06 e 05/06",
+    "imagem_detalhe": "https://link-para-a-imagem-de-natacao.jpg",
+    "descricao": "Provas de 50m, 100m e revezamento na piscina olímpica do campus.",
+    "horarios": "Eliminatórias às 09:00, Finais às 17:00",
+    "local": {
+      "nome": "Piscina Olímpica - UFSC",
+      "coordenadas": "-27.6025, -48.5185"
+    }
+  },
+  {
+    "id": 4,
+    "modalidade": "Tênis",
+    "icone": "tennis-icon.png",
+    "datas": "02/06 a 05/06",
+    "imagem_detalhe": "https://link-para-a-imagem-de-tenis.jpg",
+    "descricao": "Campeonato de Tênis, nas quadras da UFSC.",
+    "horarios": "Das 8:00 as 12:00 e das 14:00 as 20:00",
+    "local": {
+      "nome": "Quadras de tênis - UFSC",
+      "coordenadas": "-27.6025, -48.5185"
+    }
+  },
+  {
+  "id": 5,
+  "modalidade": "Voleibol",
+  "icone": "volleyball-icon.png",
+  "datas": "03/06 a 09/06",
+  "imagem_detalhe": "https://link-para-a-imagem-de-volei.jpg",
+  "descricao": "Partidas emocionantes de vôlei de quadra acontecerão no ginásio da ELASE.",
+  "horarios": "Jogos das 10:00 às 18:00",
+  "local": {
+    "nome": "ELASE",
+    "coordenadas": "-27.5960, -48.5152"
+  }
+}
+]
