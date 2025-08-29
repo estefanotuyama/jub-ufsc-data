@@ -9,7 +9,8 @@
     "descricao": "As competições de futebol de campo reunirão as melhores equipes universitárias do país no campo principal do Centro Esportivo da UFSC.",
     "horarios": "14:00 as 16:00",
     "local": "UFSC - Centro esportivo",
-    "coordenadas_local": "-27.6011, -48.5190"
+    "local_lat": "-27.6049", 
+    "local_long": "-48.5195"
   },
   {
     "id": 2,
@@ -21,7 +22,8 @@
     "descricao": "Partidas competitivas de Handebol, na Astel.",
     "horarios": "14:30 as 19:00",
     "local": "Astel - Quadras de Handebol",
-    "coordenadas_local": "-27.5960, -48.5152"
+    "local_lat": "-27.58795", 
+    "local_long": "-48.50191"
   },
   {
     "id": 3,
@@ -33,7 +35,8 @@
     "descricao": "Provas de 50m, 100m e revezamento na piscina olímpica do campus.",
     "horarios": "Eliminatórias as 09:00, Finais as 17:00",
     "local": "UFSC - Piscina Olimpica",
-    "coordenadas_local": "-27.6025, -48.5185"
+    "local_lat": "-27.60525", 
+    "local_long": "-48.51987"
   },
   {
     "id": 4,
@@ -44,8 +47,9 @@
     "imagem_detalhe": "https://raw.githubusercontent.com/estefanotuyama/jub-ufsc-data/main/assets/tennis-details.png",
     "descricao": "Campeonato de Tênis, nas quadras da UFSC.",
     "horarios": "14:00 as 20:00",
-    "local": "UFSC - Quadras de Tênis",
-    "coordenadas_local": "-27.6025, -48.5185"
+    "local": "LIC - Lagoa Yatch Club",
+    "local_lat": "-27.60748", 
+    "local_long": "-48.47605"
   },
   {
   "id": 5,
@@ -57,6 +61,7 @@
   "descricao": "Partidas emocionantes de vôlei de quadra acontecerão no ginásio da ELASE.",
   "horarios": "10:00 as 18:00",
   "local": "Elase - Quadras de Vôlei",
-  "coordenadas_local": "-27.5960, -48.5152"
+  "local_lat": "-27.60445", 
+    "local_long": "-48.52223"
   }
 ]
