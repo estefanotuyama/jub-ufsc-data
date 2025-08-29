@@ -10,7 +10,7 @@
     "horarios": "14:00 ás 16:00",
     "local": {
       "nome_curto": "UFSC",
-      "nome_completo": "UFSC - Centro esportivo"
+      "nome_completo": "UFSC - Centro esportivo",
       "coordenadas": "-27.6011, -48.5190"
     }
   },
@@ -25,7 +25,7 @@
     "horarios": "14:30 às 19:00",
     "local": {
       "nome_curto": "Astel",
-      "nome_completo": "Astel - Quadras de Handebol"
+      "nome_completo": "Astel - Quadras de Handebol",
       "coordenadas": "-27.5960, -48.5152"
     }
   },
@@ -40,7 +40,7 @@
     "horarios": "Eliminatórias às 09:00, Finais às 17:00",
     "local": {
       "nome_curto": "UFSC",
-      "nome_completo": "UFSC - Piscina Olímpica"
+      "nome_completo": "UFSC - Piscina Olímpica",
       "coordenadas": "-27.6025, -48.5185"
     }
   },
@@ -55,7 +55,7 @@
     "horarios": "14:00 ás 20:00",
     "local": {
       "nome_curto": "UFSC",
-      "nome_completo": "UFSC - Quadras de Tênis"
+      "nome_completo": "UFSC - Quadras de Tênis",
       "coordenadas": "-27.6025, -48.5185"
     }
   },
@@ -70,7 +70,7 @@
   "horarios": "10:00 às 18:00",
   "local": {
     "nome_curto": "ELASE",
-    "nome_completo": "Elase - Quadras de vôlei"
+    "nome_completo": "Elase - Quadras de vôlei",
     "coordenadas": "-27.5960, -48.5152"
   }
 }
