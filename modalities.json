@@ -3,12 +3,14 @@
     "id": 1,
     "modalidade": "Futebol",
     "icone": "https://raw.githubusercontent.com/estefanotuyama/jub-ufsc-data/main/assets/futebol-icon.png",
-    "datas": "02/06 a 08/06",
+    "data_inicio": "02/06",
+    "data_fim": "08/06",
     "imagem_detalhe": "https://raw.githubusercontent.com/estefanotuyama/jub-ufsc-data/main/assets/futebol-details.png",
     "descricao": "As competições de futebol de campo reunirão as melhores equipes universitárias do país no campo principal do Centro Esportivo da UFSC.",
-    "horarios": "Jogos às 14:00 e 16:00",
+    "horarios": "14:00 ás 16:00",
     "local": {
-      "nome": "UFSC",
+      "nome_curto": "UFSC",
+      "nome_completo": "UFSC - Centro esportivo"
       "coordenadas": "-27.6011, -48.5190"
     }
   },
@@ -16,12 +18,14 @@
     "id": 2,
     "modalidade": "Handebol",
     "icone": "https://raw.githubusercontent.com/estefanotuyama/jub-ufsc-data/main/assets/handball-icon.png",
-    "datas": "03/06 a 09/06",
+    "data_inicio": "03/06",
+    "data_fim": "09/06",
     "imagem_detalhe": "https://raw.githubusercontent.com/estefanotuyama/jub-ufsc-data/main/assets/handball-details.jpg",
     "descricao": "Partidas competitivas de Handebol, na Astel.",
-    "horarios": "Jogos das 14:00 às 19:00",
+    "horarios": "14:30 às 19:00",
     "local": {
-      "nome": "Astel",
+      "nome_curto": "Astel",
+      "nome_completo": "Astel - Quadras de Handebol"
       "coordenadas": "-27.5960, -48.5152"
     }
   },
@@ -29,12 +33,14 @@
     "id": 3,
     "modalidade": "Natação",
     "icone": "https://raw.githubusercontent.com/estefanotuyama/jub-ufsc-data/main/assets/swimming-icon.png",
-    "datas": "04/06 e 05/06",
+    "data_inicio": "04/06",
+    "data_fim": "06/06",
     "imagem_detalhe": "https://raw.githubusercontent.com/estefanotuyama/jub-ufsc-data/main/assets/swimming-details.png",
     "descricao": "Provas de 50m, 100m e revezamento na piscina olímpica do campus.",
     "horarios": "Eliminatórias às 09:00, Finais às 17:00",
     "local": {
-      "nome": "UFSC",
+      "nome_curto": "UFSC",
+      "nome_completo": "UFSC - Piscina Olímpica"
       "coordenadas": "-27.6025, -48.5185"
     }
   },
@@ -42,12 +48,14 @@
     "id": 4,
     "modalidade": "Tênis",
     "icone": "https://raw.githubusercontent.com/estefanotuyama/jub-ufsc-data/main/assets/tennis-icon.png",
-    "datas": "02/06 a 05/06",
+    "data_inicio": "02/06",
+    "data_fim": "05/06",
     "imagem_detalhe": "https://raw.githubusercontent.com/estefanotuyama/jub-ufsc-data/main/assets/tennis-details.png",
     "descricao": "Campeonato de Tênis, nas quadras da UFSC.",
-    "horarios": "Das 8:00 as 12:00 e das 14:00 as 20:00",
+    "horarios": "14:00 ás 20:00",
     "local": {
-      "nome": "UFSC",
+      "nome_curto": "UFSC",
+      "nome_completo": "UFSC - Quadras de Tênis"
       "coordenadas": "-27.6025, -48.5185"
     }
   },
@@ -55,12 +63,14 @@
   "id": 5,
   "modalidade": "Voleibol",
   "icone": "https://raw.githubusercontent.com/estefanotuyama/jub-ufsc-data/main/assets/volleyball-icon.png",
-  "datas": "03/06 a 09/06",
+  "data_inicio": "03/06",
+  "data_fim": "09/06",
   "imagem_detalhe": "https://raw.githubusercontent.com/estefanotuyama/jub-ufsc-data/main/assets/volleyball-details.png",
   "descricao": "Partidas emocionantes de vôlei de quadra acontecerão no ginásio da ELASE.",
-  "horarios": "Jogos das 10:00 às 18:00",
+  "horarios": "10:00 às 18:00",
   "local": {
-    "nome": "ELASE",
+    "nome_curto": "ELASE",
+    "nome_completo": "Elase - Quadras de vôlei"
     "coordenadas": "-27.5960, -48.5152"
   }
 }
