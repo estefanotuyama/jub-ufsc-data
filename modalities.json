@@ -8,11 +8,8 @@
     "imagem_detalhe": "https://raw.githubusercontent.com/estefanotuyama/jub-ufsc-data/main/assets/futebol-details.png",
     "descricao": "As competições de futebol de campo reunirão as melhores equipes universitárias do país no campo principal do Centro Esportivo da UFSC.",
     "horarios": "14:00 ás 16:00",
-    "local": {
-      "nome_curto": "UFSC",
-      "nome_completo": "UFSC - Centro esportivo",
-      "coordenadas": "-27.6011, -48.5190"
-    }
+    "local": "UFSC - Centro esportivo",
+    "coordenadas_local": "-27.6011, -48.5190"
   },
   {
     "id": 2,
@@ -23,11 +20,8 @@
     "imagem_detalhe": "https://raw.githubusercontent.com/estefanotuyama/jub-ufsc-data/main/assets/handball-details.jpg",
     "descricao": "Partidas competitivas de Handebol, na Astel.",
     "horarios": "14:30 às 19:00",
-    "local": {
-      "nome_curto": "Astel",
-      "nome_completo": "Astel - Quadras de Handebol",
-      "coordenadas": "-27.5960, -48.5152"
-    }
+    "local": "Astel - Quadras de Handebol",
+    "coordenadas_local": "-27.5960, -48.5152"
   },
   {
     "id": 3,
@@ -38,11 +32,8 @@
     "imagem_detalhe": "https://raw.githubusercontent.com/estefanotuyama/jub-ufsc-data/main/assets/swimming-details.png",
     "descricao": "Provas de 50m, 100m e revezamento na piscina olímpica do campus.",
     "horarios": "Eliminatórias às 09:00, Finais às 17:00",
-    "local": {
-      "nome_curto": "UFSC",
-      "nome_completo": "UFSC - Piscina Olímpica",
-      "coordenadas": "-27.6025, -48.5185"
-    }
+    "local": "UFSC - Piscina Olimpica",
+    "coordenadas_local": "-27.6025, -48.5185"
   },
   {
     "id": 4,
@@ -53,11 +44,8 @@
     "imagem_detalhe": "https://raw.githubusercontent.com/estefanotuyama/jub-ufsc-data/main/assets/tennis-details.png",
     "descricao": "Campeonato de Tênis, nas quadras da UFSC.",
     "horarios": "14:00 ás 20:00",
-    "local": {
-      "nome_curto": "UFSC",
-      "nome_completo": "UFSC - Quadras de Tênis",
-      "coordenadas": "-27.6025, -48.5185"
-    }
+    "local": "UFSC - Quadras de Tênis",
+    "coordenadas_local": "-27.6025, -48.5185"
   },
   {
   "id": 5,
@@ -68,10 +56,7 @@
   "imagem_detalhe": "https://raw.githubusercontent.com/estefanotuyama/jub-ufsc-data/main/assets/volleyball-details.png",
   "descricao": "Partidas emocionantes de vôlei de quadra acontecerão no ginásio da ELASE.",
   "horarios": "10:00 às 18:00",
-  "local": {
-    "nome_curto": "ELASE",
-    "nome_completo": "Elase - Quadras de vôlei",
-    "coordenadas": "-27.5960, -48.5152"
+  "local": "Elase - Quadras de Vôlei",
+  "coordenadas_local": "-27.5960, -48.5152"
   }
-}
 ]
