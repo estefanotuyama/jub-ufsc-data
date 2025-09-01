@@ -1,0 +1,46 @@
+[
+  {
+    "id": 1,
+    "nome": "Alojamento Central",
+    "bairro": "Centro",
+    "valor": "R$ 50,00 / diária",
+    "capacidade": "100 atletas",
+    "endereco": "Rua das Flores, 123 - Centro, Florianópolis",
+    "foto": "https://images.adsttc.com/media/images/6334/6250/3e4b/3141/8200/0001/large_jpg/alojamento-estudantil-em-madeira-em-paris-mars-architectes_11.jpg?1664377435",
+    "lat": "-27.5969",
+    "long": "-48.5495"
+  },
+  {
+    "id": 2,
+    "nome": "Residencial Universitário",
+    "bairro": "Trindade (próximo à UFSC)",
+    "valor": "R$ 45,00 / diária",
+    "capacidade": "200 atletas",
+    "endereco": "Rua da Universidade, 789 - Trindade, Florianópolis",
+    "foto": "https://i0.wp.com/arquiteturaurbanismotodos.org.br/wp-content/uploads/2019/08/sala-de-estudos-alojamento-universitario-em-lisboa-scaled.jpg?fit=2560%2C1920&ssl=1",
+    "lat": "-27.6000",
+    "long": "-48.5181"
+  },
+  {
+    "id": 3,
+    "nome": "República Beira-Mar",
+    "bairro": "Beira-Mar Norte",
+    "valor": "R$ 75,00 / diária",
+    "capacidade": "50 atletas",
+    "endereco": "Av. Rubens de Arruda Ramos, 456 - Beira-Mar, Florianópolis",
+    "foto": "https://www.decorfacil.com/wp-content/uploads/2020/03/20200311alojamento-estudantil-sao-paulo-fgmf-2.jpg",
+    "lat": "-27.5859",
+    "long": "-48.5443"
+  },
+  {
+    "id": 4,
+    "nome": "Pousada da Lagoa",
+    "bairro": "Lagoa da Conceição",
+    "valor": "R$ 80,00 / diária",
+    "capacidade": "40 atletas",
+    "endereco": "R. Manoel Isidoro da Silveira, 500 - Lagoa da Conceição, Florianópolis",
+    "foto": "https://archello.s3.eu-central-1.amazonaws.com/images/2023/10/20/fgmf-arquitetos-student-housing-archello.1697793540.3232.jpg",
+    "lat": "-27.5925",
+    "long": "-48.4608"
+  }
+]
