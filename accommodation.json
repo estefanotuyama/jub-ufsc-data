@@ -7,7 +7,11 @@
     "email": "alojamentoCentral@gmail.com",
     "telefone": "48 99999999",
     "endereco": "Rua das Flores, 123 - Centro, Florianópolis",
-    "foto": "https://raw.githubusercontent.com/estefanotuyama/jub-ufsc-data/main/assets/aloCentral.jpg",
+    "fotos": [
+      "https://raw.githubusercontent.com/estefanotuyama/jub-ufsc-data/main/assets/alo101.jpg",
+      "https://raw.githubusercontent.com/estefanotuyama/jub-ufsc-data/main/assets/alo102.jpg",
+      "https://raw.githubusercontent.com/estefanotuyama/jub-ufsc-data/main/assets/alo103.jpg"
+    ],
     "lat": "-27.5969",
     "long": "-48.5495"
   },
@@ -19,7 +23,11 @@
     "email": "residencialUniversitario@gmail.com",
     "telefone": "48 99988888",
     "endereco": "Rua da Universidade, 789 - Trindade, Florianópolis",
-    "foto": "https://raw.githubusercontent.com/estefanotuyama/jub-ufsc-data/main/assets/aloUniversitario.jpg",
+    "fotos": [
+      "https://raw.githubusercontent.com/estefanotuyama/jub-ufsc-data/main/assets/alo201.jpeg",
+      "https://raw.githubusercontent.com/estefanotuyama/jub-ufsc-data/main/assets/alo202.jpeg",
+      "https://raw.githubusercontent.com/estefanotuyama/jub-ufsc-data/main/assets/alo203.jpeg"
+    ],
     "lat": "-27.6000",
     "long": "-48.5181"
   },
@@ -31,7 +39,11 @@
     "email": "republicaBeiraMar@gmail.com",
     "telefone": "48 998777777",
     "endereco": "Av. Rubens de Arruda Ramos, 456 - Beira-Mar, Florianópolis",
-    "foto": "https://raw.githubusercontent.com/estefanotuyama/jub-ufsc-data/main/assets/aloBeiraMar.jpg",
+    "fotos": [
+      "https://raw.githubusercontent.com/estefanotuyama/jub-ufsc-data/main/assets/alo301.jpeg",
+      "https://raw.githubusercontent.com/estefanotuyama/jub-ufsc-data/main/assets/alo302.jpeg",
+      "https://raw.githubusercontent.com/estefanotuyama/jub-ufsc-data/main/assets/alo303.jpeg"
+    ],
     "lat": "-27.5859",
     "long": "-48.5443"
   },
@@ -43,7 +55,11 @@
     "email": "PousadaLagoa@gmail.com",
     "telefone": "48 998666666",
     "endereco": "R. Manoel Isidoro da Silveira, 500 - Lagoa da Conceição, Florianópolis",
-    "foto": "https://raw.githubusercontent.com/estefanotuyama/jub-ufsc-data/main/assets/aloLagoa.jpg",
+    "fotos": [
+      "https://raw.githubusercontent.com/estefanotuyama/jub-ufsc-data/main/assets/alo401.jpeg",
+      "https://raw.githubusercontent.com/estefanotuyama/jub-ufsc-data/main/assets/alo402.jpeg",
+      "https://raw.githubusercontent.com/estefanotuyama/jub-ufsc-data/main/assets/alo403.jpeg"
+    ],
     "lat": "-27.5925",
     "long": "-48.4608"
   }
