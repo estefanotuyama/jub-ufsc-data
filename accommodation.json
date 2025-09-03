@@ -7,6 +7,7 @@
     "email": "alojamentoCentral@gmail.com",
     "telefone": "48 99999999",
     "endereco": "Rua das Flores, 123 - Centro, Florianópolis",
+    "maps": "https://raw.githubusercontent.com/estefanotuyama/jub-ufsc-data/main/assets/MapsCentral.jpeg",
     "fotos": [
       "https://raw.githubusercontent.com/estefanotuyama/jub-ufsc-data/main/assets/alo101.jpeg",
       "https://raw.githubusercontent.com/estefanotuyama/jub-ufsc-data/main/assets/alo102.jpeg",
@@ -23,6 +24,7 @@
     "email": "residencialUniversitario@gmail.com",
     "telefone": "48 99988888",
     "endereco": "Rua da Universidade, 789 - Trindade, Florianópolis",
+    "maps": "https://raw.githubusercontent.com/estefanotuyama/jub-ufsc-data/main/assets/MapsUni.jpeg",
     "fotos": [
       "https://raw.githubusercontent.com/estefanotuyama/jub-ufsc-data/main/assets/alo201.jpeg",
       "https://raw.githubusercontent.com/estefanotuyama/jub-ufsc-data/main/assets/alo202.jpeg",
@@ -39,6 +41,7 @@
     "email": "republicaBeiraMar@gmail.com",
     "telefone": "48 998777777",
     "endereco": "Av. Rubens de Arruda Ramos, 456 - Beira-Mar, Florianópolis",
+    "maps": "https://raw.githubusercontent.com/estefanotuyama/jub-ufsc-data/main/assets/MapsBeiraMar.jpeg",
     "fotos": [
       "https://raw.githubusercontent.com/estefanotuyama/jub-ufsc-data/main/assets/alo301.jpeg",
       "https://raw.githubusercontent.com/estefanotuyama/jub-ufsc-data/main/assets/alo302.jpeg",
@@ -55,6 +58,7 @@
     "email": "PousadaLagoa@gmail.com",
     "telefone": "48 998666666",
     "endereco": "R. Manoel Isidoro da Silveira, 500 - Lagoa da Conceição, Florianópolis",
+    "maps": "https://raw.githubusercontent.com/estefanotuyama/jub-ufsc-data/main/assets/MapsLagoa.jpeg",
     "fotos": [
       "https://raw.githubusercontent.com/estefanotuyama/jub-ufsc-data/main/assets/alo401.jpeg",
       "https://raw.githubusercontent.com/estefanotuyama/jub-ufsc-data/main/assets/alo402.jpeg",
